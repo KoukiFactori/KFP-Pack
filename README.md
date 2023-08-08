@@ -1,4 +1,6 @@
-# This project has been discontinued because me, kujou doesn't have time continue the project and nobody really wanted to take over it. I transfered this repo back to my personal account and it's now archived (read-only). The KFP GitHub Organization Account is now deleted. If you like to continue this project feel free to fork it.
+# Fork status: Project has been updated for Minecraft 1.20+ with fixes for the title menu and the creative inventory
+
+# ~~This project has been discontinued because me, kujou doesn't have time continue the project and nobody really wanted to take over it. I transfered this repo back to my personal account and it's now archived (read-only). The KFP GitHub Organization Account is now deleted. If you like to continue this project feel free to fork it.~~
 ![](respack.png)
 # Kiara Fried Phoenix Pack (MC 1.16+)
 [![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat-square)](https://discord.gg/HrsGZ8B9bT)
